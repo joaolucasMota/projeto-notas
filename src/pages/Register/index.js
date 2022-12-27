@@ -43,7 +43,7 @@ export default function Register(){
             <main className="container col-11 col-md-9" id='form-container'>
                     <div className="row align-items-center gx-5">
                         <div className='col-md-6 order-md-1 text-center'>
-                            <h2>Registro</h2>
+                            <h2>Registre-se</h2>
                             <form onSubmit={handleRegister} >
                                 <div className='form-floating mb-3'>
                                     <input 
@@ -72,7 +72,7 @@ export default function Register(){
 
                                     <label type='password' className='forma-label'>Digite sua senha</label>
                                 </div>
-                                <input className='btn btn-dark' type='submit' value='Registrar' id='btn-login'/>
+                                <input className='btn btn-dark' type='submit' value='Cadastrar' id='btn-login'/>
                             </form>
                             <div className='col-12 secondary-color' id='link-container'>
                                 <Link to="/login">Já possui cadastro? clique aqui</Link>

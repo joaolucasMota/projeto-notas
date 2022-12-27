@@ -44,7 +44,7 @@ export default function Login(){
             <main className="container col-11 col-md-9" id='form-container'>
                     <div className="row align-items-center gx-5">
                         <div className='col-md-6 order-md-1 text-center'>
-                            <h2>Login</h2>
+                            <h2>Conecte-se</h2>
                             <form onSubmit={handleLogin} >
                                 <div className='form-floating mb-3'>
                                     <input 
