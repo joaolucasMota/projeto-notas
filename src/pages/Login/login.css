@@ -1,0 +1,23 @@
+
+/*Problema relacionado ao logo de login que ficava deslocando conforma passava o mouse*/
+#logo-login{
+    vertical-align: super;
+}
+
+/*login*/
+
+#form-container{
+    padding: 30px;
+}
+
+#btn-login{
+    margin-bottom: 10px;
+}
+
+
+/*Cores do linkd de não possui ou possui cadastro*/
+
+#link-container{
+    margin-top: 10px;
+}
+

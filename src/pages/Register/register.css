@@ -1,0 +1,29 @@
+/*registro*/
+#form-container{
+    padding: 30px;
+}
+
+#btn-login{
+    margin-bottom: 10px;
+}
+
+/*Cores do linke de não possui ou possui cadastro*/
+
+#link-container{
+    margin-top: 10px;
+}
+
+
+a:link {
+    color: #555;
+ }
+ 
+
+ a:visited {
+     color: #555;
+ }
+ 
+
+ a:hover {
+     color: #000000;
+ }

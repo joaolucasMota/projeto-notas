@@ -1,0 +1,32 @@
+#content{
+    margin: 0 auto;
+}
+
+
+.btn-home{
+    border: none;
+    font-size: smaller;
+    margin: 0px 5px;  
+}
+
+#btn-sair{
+    border-radius: 50%;
+    font-size: large;
+    transition: .5s;
+}
+#btn-sair:hover{
+    color: #fff;
+    background-color: rgba(251, 4, 4, 0.779);
+}
+
+/*media queery para o text area da home*/
+@media (min-width: 380px) {
+    #content{
+        width: 340px;
+    }
+}
+
+/*Retirando o padding do text center*/
+#text-center-home{
+    padding: 0;
+}
