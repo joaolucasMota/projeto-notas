@@ -10,4 +10,4 @@
 <li>Firebase
 
 
-Link para visualização: <a src="https://notas-project.netlify.app/login">Clique aqui<a/>
+Link para visualização: <a href="https://notas-project.netlify.app/login">Clique aqui<a/>
